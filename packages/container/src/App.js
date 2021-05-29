@@ -3,7 +3,7 @@ import MarketingApp from './components/MarketingApp'
 export default () => {
   return (
     <>
-      <h1>Hi from Container Algo</h1>
+      <h1>Hi from Container</h1>
       <MarketingApp />
     </>
   )
